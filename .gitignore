@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+scratch_predict.py
+check_url.py
+.DS_Store
+*.log
