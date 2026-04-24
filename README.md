@@ -8,7 +8,7 @@
 **Project Title:** Nexus — AI-Powered Network Intrusion Detection System  
 **Practical Objective:** Use any LLM to build a small, functional project  
 **LLM Used:** Antigravity (powered by Google DeepMind)  
-**Developed By:** [Your Name / Roll Number]  
+**Developed By:** Premangshu Sahu 
 **Date:** April 2026
 
 ---
